@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/11lrExu94-BArxXdiXk1Gi6ifdDxTqwBU
 """
 
-!pip install streamlit plotly numpy sympy
-
 import streamlit as st
 import numpy as np
 import plotly.graph_objects as go
